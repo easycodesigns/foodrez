@@ -136,6 +136,7 @@ body {
 }
 .interface {
   display: flex;
+  justify-content: space-between;
   padding: 0 50px;
 }
 .interface .box-1 {
@@ -148,10 +149,10 @@ body {
 .interface .box-2 {
   display: flex;
   justify-content: space-between;
-  width: 50%;
+  width: 40%;
 }
 .interface .box-2 img {
-  height: 380px;
+  width: auto;
 }
 /* .interface .box-1 .info{
 
