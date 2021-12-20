@@ -72,12 +72,6 @@ body {
 .left .input-area {
   margin-top: 30px;
 }
-.left .input-area input {
-  width: 76%;
-  height: 50px;
-  border: 1px solid #dc143c;
-  padding: 0 20px;
-}
 .left .input-area button {
   height: 50px;
   width: 140px;
@@ -363,9 +357,6 @@ footer .column-4 .apps-downloads img {
   }
   .left .input-area {
     display: flex;
-  }
-  .left .input-area input {
-    width: 100%;
   }
   .left .input-area button {
     width: 40%;
