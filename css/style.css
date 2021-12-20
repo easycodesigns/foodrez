@@ -73,7 +73,7 @@ body {
   margin-top: 30px;
 }
 .left .input-area .main-btn {
-  width: 100%;
+  display: block;
   padding: 15px 0;
   font-size: 17px;
   text-align: center;
@@ -364,6 +364,7 @@ footer .column-4 .apps-downloads img {
     display: flex;
   }
   .left .input-area .main-btn {
+    width: 100%;
     font-size: 15px;
   }
   .popular-foods {
