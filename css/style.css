@@ -74,7 +74,8 @@ body {
 }
 .left .input-area button {
   height: 50px;
-  width: 140px;
+  width: 100%;
+  font-size: 17px;
   background: #dc143c;
   color: #fff;
   border: 1px solid #dc143c;
@@ -359,8 +360,7 @@ footer .column-4 .apps-downloads img {
     display: flex;
   }
   .left .input-area button {
-    width: 40%;
-    font-size: 11px;
+    font-size: 15px;
   }
   .popular-foods {
     display: none;
