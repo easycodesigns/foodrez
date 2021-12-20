@@ -73,12 +73,12 @@ body {
   margin-top: 30px;
 }
 .left .input-area .button {
-  height: 50px;
   width: 100%;
+  padding: 15px 0;
   font-size: 17px;
+  text-align: center;
   background: #dc143c;
   color: #fff;
-  border: 1px solid #dc143c;
   outline: none;
   cursor: pointer;
   transition: .3s ease;
