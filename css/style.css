@@ -72,7 +72,7 @@ body {
 .left .input-area {
   margin-top: 30px;
 }
-.left .input-area button {
+.left .input-area .button {
   height: 50px;
   width: 100%;
   font-size: 17px;
@@ -83,7 +83,7 @@ body {
   cursor: pointer;
   transition: .3s ease;
 }
-.left .input-area button:hover{
+.left .input-area .button:hover{
   background: #000;
 }
 .popular-foods {
@@ -363,7 +363,7 @@ footer .column-4 .apps-downloads img {
   .left .input-area {
     display: flex;
   }
-  .left .input-area button {
+  .left .input-area .button {
     font-size: 15px;
   }
   .popular-foods {
