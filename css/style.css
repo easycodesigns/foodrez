@@ -81,6 +81,10 @@ body {
   border: 1px solid #dc143c;
   outline: none;
   cursor: pointer;
+  transition: .3s ease;
+}
+.left .input-area button{
+  background: #000;
 }
 .popular-foods {
   margin-top: 33px;
